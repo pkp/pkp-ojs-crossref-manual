@@ -1,3 +1,5 @@
 - [Introduction](README.md)
 - [Project Information](project.md)
+   - [PKP and CrossRef](pkpcrossref.md)
+   - [PKP and Sponsorship](pkpsponsor.md)
 - [Original Doc](orig.md)
