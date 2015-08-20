@@ -1,2 +1,3 @@
 - [Introduction](README.md)
+- [Project Information](project.md)
 - [Original Doc](orig.md)
