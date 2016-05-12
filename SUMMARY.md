@@ -1,5 +1,7 @@
 - [Introduction](README.md)
-- [Project Information](project.md)
-   - [PKP and CrossRef](pkpcrossref.md)
-   - [PKP and Sponsorship](pkpsponsor.md)
+- [PKP and CrossRef](pkpcrossref.md)
+   - [PKP and CrossRef Sponsorship](pkpsponsor.md)
+- [Naming DOIs]
+- [Setting Up OJS](config.md)
 - [Original Doc](orig.md)
+- [Troubleshooting DOI Resolutions](troubleshooting.md)
