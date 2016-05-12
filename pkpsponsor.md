@@ -2,9 +2,9 @@
 
 As a CrossRef Sponsoring Entity, PKP can also act as sponsor and representative for other journals to join CrossRef through PKP. Journals from low-income countries may be eligible for sponsorship, allowing these journals to become CrossRef members and deposit DOIs into the CrossRef system at no cost.
 
-## Eligible countries
+## Eligible Countries
 
-Organizations from the following countries (who are in the [Low Income Country](http://data.worldbank.org/income-level/LIC) category, or in the [Low & Middle Income country list](http://data.worldbank.org/income-level/LMC) and whose GNI per capita is up to \$1,500) may be eligible for sponsorship.
+Organizations from the following countries (who are in the [Low Income Country](http://data.worldbank.org/income-level/LIC) category, or in the [Low & Middle Income country list](http://data.worldbank.org/income-level/LMC) and whose GNI per capita is up to $1,500) may be eligible for sponsorship.
 
 
   | Afghanistan (LIC) | Central African Republic (LIC) | Gambia (LIC) | Liberia (LIC) | Niger (LIC) |
@@ -19,7 +19,7 @@ Organizations from the following countries (who are in the [Low Income Country](
   | Somalia (LIC) | Zambia (LMC) | Cameroon (LMC) | Ethiopia (LIC) | LAO PDR (LMC) |
   | Nepal (LIC) | South Sudan (LMC) | Zimbabwe (LIC) | | |
 
-For further eligibility criteria and any other information, contact us.
+For further eligibility criteria and any other information, [contact us](mailto:pkp.contact@gmail.com).
 
 ## PKP Publishing Services clients
 
