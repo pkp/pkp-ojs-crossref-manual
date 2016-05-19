@@ -1,9 +1,10 @@
 - [Introduction](README.md)
+- [Getting Started with DOIs](gettingStarted.md)
 - [PKP and CrossRef](pkpcrossref.md)
    - [PKP and CrossRef Sponsorship](pkpsponsor.md)
-- [Naming DOIs]
-- [Setting Up OJS](config.md)
-- [Original Doc](orig.md)
+- [Configuring OJS for CrossRef](config.md)
+    - [Configuring OJS for Automatic Deposits](configAuto.md)
+    - [Configuring OJS for Manual Deposits](configManual.md)
 - [Troubleshooting DOI Resolutions](troubleshooting.md)
     - [UI/Plugin-based Registration](troubleshootingDepositsUI.md)
     - [Deposits from XML Export](troubleshootingDepositsExport.md)

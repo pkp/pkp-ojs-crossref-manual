@@ -19,8 +19,8 @@ Organizations from the following countries (who are in the [Low Income Country](
   | Somalia (LIC) | Zambia (LMC) | Cameroon (LMC) | Ethiopia (LIC) | LAO PDR (LMC) |
   | Nepal (LIC) | South Sudan (LMC) | Zimbabwe (LIC) | | |
 
-For further eligibility criteria and any other information, [contact us](mailto:pkp.contact@gmail.com).
+For further eligibility criteria and any other information, [contact us](mailto:pkp.contact@gmail.com). If you believe your journal meets the PKP Sponsorship requirements and you'd like to submit an eligibility form, you can [click here to fill one out](http://goo.gl/forms/2mme6t19OBp79ezp2).
 
 ## PKP Publishing Services clients
 
-PKP Publishing Services provides additional CrossRef support. All hosted clients can rely on our internal expertise to assist with plugin setup and support. Additionally, Enterprise clients will now have CrossRef represented membership and DOI deposits included as part of the Enterprise hosting package. For more information, please contact us.
+PKP Publishing Services provides additional CrossRef support. All hosted clients can rely on our internal expertise to assist with plugin setup and support. Additionally, Enterprise clients will now have CrossRef represented membership and DOI deposits included as part of the Enterprise hosting package. For more information, please [contact us](mailto:pkp.contact@gmail.com).
