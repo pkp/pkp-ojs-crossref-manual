@@ -9,7 +9,7 @@ In order to check on the status of a registration attempt, you can click on any 
 
 Clicking on one of these submission headers will then open a pop-up where you'll be asked for your CrossRef login credentials before you can see the report. These reports are currently displayed in the default JSON metadata display provided by CrossRef. Here's an example of a successful deposit:
 
-```
+```JSON
 {"status":"ok","message-type":"deposit","message-version":"1.0.0","message":{"handoff":{"try-count":1,"delay-millis":2718.2818284590453,"status":"completed","timestamp":1462884657918},"dois":["10.4138\/atlgeol.2015.017"],"parent":null,"filename":null,"submitted-at":"Tue May 10 08:50:57 EDT 2016","status":"completed","length":4368,"content-type":"application\/vnd.crossref.deposit+xml","pingback-url":null,"submission":{"submission-id":"1392711272","batch-id":"79bb76da-e0db-4bfb-9586-5f90ed6a9230","record-count":1,"success-count":1,"warning-count":0,"failure-count":0,"messages":[{"status":"success","related-doi":"10.4138\/atlgeol.2015.017","message":"Successfully updated","message-types":[]}]},"test":false,"owner":"atgeo","batch-id":"79bb76da-e0db-4bfb-9586-5f90ed6a9230"}}
 ```
 
@@ -20,7 +20,7 @@ They aren't particularly user friendly, but you should be able to read through t
 
 The number next to the count represents the number of errors in the submission. Below that, if the item failed, you'll be given the reason why a submission failed. For example:
 
-```
+```JSON
 {"status":"failure","related-doi":null,"message":"Error: cvc-complex-type.2.4.b: The content of element 'pages' is not complete. One of '{\"http:\/\/www.crossref.org\/schema\/4.3.6\":first_page}' is expected. Error: cvc-complex-type.2.4.b: The content of element 'pages' is not complete. One of '{\"http:\/\/www.crossref.org\/schema\/4.3.6\":first_page}' is expected.","message-types":[]}]},"test":false,"owner":"tesl","batch-id":"abd48f64-c670-4569-b3d7-e6249927f917"}
 ```
 
