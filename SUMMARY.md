@@ -5,3 +5,5 @@
 - [Setting Up OJS](config.md)
 - [Original Doc](orig.md)
 - [Troubleshooting DOI Resolutions](troubleshooting.md)
+    - [UI/Plugin-based Registration](troubleshootingDepositsUI.md)
+    - [Deposits from XML Export](troubleshootingDepositsExport.md)
