@@ -33,8 +33,6 @@
 -   Depositor name and email will be initially retrieved from the journal's Primary Contact information, but you can change this if you like.
 -   If you have your CrossRef login credentials, you can supply them here and enable automatic DOI deposit.
 
-
-
 ## Depositing DOIs with CrossRef
 
 If you have configured the plugin to work automatically, OJS will deposit DOIs as they are created without your intervention. You can check the **Unregistered Articles** page to confirm that DOIs have been deposited.
