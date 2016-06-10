@@ -6,7 +6,11 @@ PKP and CrossRef are collaborating to help publishers and journals using Open Jo
 
 PKP is working with CrossRef to improve the level of overall DOI export support provided within OJS. OJS has included a basic manual export plugin for several years; this plugin will be extended in the following ways, and will be freely available to any journal using OJS (2.4.5+).
 
-- automatic DOI deposit to CrossRef on article publication (2.4.5); – inclusion of other article metadata in the CrossRef deposit, including author ORCID iDs; article abstracts; and more (OJS 2.4.5); – inclusion of FundRef funding data (forthcoming); – support for the CrossMark publication record service (forthcoming); – and more.
+- automatic DOI deposit to CrossRef on article publication (2.4.5);
+- inclusion of other article metadata in the CrossRef deposit, including author ORCID iDs; article abstracts; and more (OJS 2.4.5);
+- inclusion of FundRef funding data (forthcoming);
+- support for the CrossMark publication record service (forthcoming); 
+- and more.
 
 ## Future Development Plans and Milestones
 
