@@ -1,6 +1,6 @@
 # PKP as Sponsoring Entity
 
-As a CrossRef Sponsoring Entity, PKP can also act as sponsor and representative for other journals to join CrossRef through PKP. Journals from low-income countries may be eligible for sponsorship, allowing these journals to become CrossRef members and deposit DOIs into the CrossRef system at no cost.
+As a Crossref Sponsoring Entity, PKP can also act as sponsor and representative for other journals to join Crossref through PKP. Journals from low-income countries may be eligible for sponsorship, allowing these journals to become Crossref members and deposit DOIs into the Crossref system at no cost.
 
 ## Eligible Countries
 
@@ -23,4 +23,4 @@ For further eligibility criteria and any other information, [contact us](mailto:
 
 ## PKP Publishing Services clients
 
-PKP Publishing Services provides additional CrossRef support. All hosted clients can rely on our internal expertise to assist with plugin setup and support. Additionally, Enterprise clients will now have CrossRef represented membership and DOI deposits included as part of the Enterprise hosting package. For more information, please [contact us](mailto:pkp.contact@gmail.com).
+PKP Publishing Services provides additional Crossref support. All hosted clients can rely on our internal expertise to assist with plugin setup and support. Additionally, Enterprise clients will now have Crossref represented membership and DOI deposits included as part of the Enterprise hosting package. For more information, please [contact us](mailto:pkp.contact@gmail.com).

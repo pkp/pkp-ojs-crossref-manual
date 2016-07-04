@@ -1,6 +1,6 @@
 # Troubleshooting Deposits from XML Export
 
-When you submit your DOIs via [CrossRef's interface](http://doi.crossref.org), a report on the success of your submissions will be emailed to the address labeled under Technical Support Contact for your journal.  You can change the email of the depositor within the `<head>` parent element in your XML.
+When you submit your DOIs via [Crossref's interface](http://doi.crossref.org), a report on the success of your submissions will be emailed to the address labeled under Technical Support Contact for your journal.  You can change the email of the depositor within the `<head>` parent element in your XML.
 
 ```XML
 <?xml version="1.0" encoding="UTF-8"?>
@@ -32,10 +32,10 @@ The number next to the count represents the number of errors in the submission. 
 {"status":"failure","related-doi":null,"message":"Error: cvc-complex-type.2.4.b: The content of element 'pages' is not complete. One of '{\"http:\/\/www.crossref.org\/schema\/4.3.6\":first_page}' is expected. Error: cvc-complex-type.2.4.b: The content of element 'pages' is not complete. One of '{\"http:\/\/www.crossref.org\/schema\/4.3.6\":first_page}' is expected.","message-types":[]}]},"test":false,"owner":"tesl","batch-id":"abd48f64-c670-4569-b3d7-e6249927f917"}
 ```
 
-In this particular case you can see that the error says, "the content of element 'pages' is not complete", and there's a link to the CrossRef Schema to explain what sort of page reference is necessary. This sort of error very likely means that the page range for a submission is missing (fixable by going to the table of contents for that page and entering the page range for that article)
+In this particular case you can see that the error says, "the content of element 'pages' is not complete", and there's a link to the Crossref Schema to explain what sort of page reference is necessary. This sort of error very likely means that the page range for a submission is missing (fixable by going to the table of contents for that page and entering the page range for that article)
 
 These errors should be relatively self-explanatory, and should at least point to the specific element missing from your article's metadata. Most deposit errors will come down to elements missing or misconfigured in your deposit XML. If you are seeing any XML validation errors when checking the status of a deposit, see if you can track the error back to eg. a missing component in your journal or plugin configurations, for example a missing ISSN.
 
 # Checking Before You Submit
 
-CrossRef offer an XML validation tool that can let you know errors before you submit your XML. Their [metadata quality check](http://www.crossref.org/02publishers/parser.html) service allows a user to upload their XML file and receive notification of any potential errors before they officially send in their DOIs. This can be handy for more immediately checking a DOI's status without having to wait for potential errors in feedback.
+Crossref offer an XML validation tool that can let you know errors before you submit your XML. Their [metadata quality check](http://www.crossref.org/02publishers/parser.html) service allows a user to upload their XML file and receive notification of any potential errors before they officially send in their DOIs. This can be handy for more immediately checking a DOI's status without having to wait for potential errors in feedback.
