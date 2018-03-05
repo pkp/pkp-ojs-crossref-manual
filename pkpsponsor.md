@@ -1,6 +1,6 @@
-# PKP as Sponsoring Entity
+# PKP as Sponsoring Organization
 
-As a Crossref Sponsoring Entity, PKP can also act as sponsor and representative for other journals to join Crossref through PKP. Journals from low-income countries may be eligible for sponsorship, allowing these journals to become Crossref members and deposit DOIs into the Crossref system at no cost.
+As a Crossref Sponsoring Organization, PKP can also act as sponsor and representative for other journals to join Crossref through PKP. Journals from low-income countries may be eligible for sponsorship, allowing these journals to become Crossref members and deposit DOIs into the Crossref system at no cost.
 
 ## Eligible Countries
 
